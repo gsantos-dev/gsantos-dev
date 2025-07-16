@@ -3,7 +3,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — Faculdade Impacta (4º semestre)  
 💼 Estagiário em Auditoria Interna na Braskem  
 📍 Carapicuíba - SP, Brasil  
-📫 guilherme.santos300106@gmail.com | [LinkedIn](www.linkedin.com/in/guilherme-santos-pereira-7a3b76252)  
+📫 guilherme.santos300106@gmail.com | [LinkedIn](www.linkedin.com/in/guilherme-santos-pereira-7a3b76252/)  
 
 ---
 
@@ -80,6 +80,6 @@ Se você busca alguém que una **IA + automação + dados** para entregar soluç
 
 📫 **guilherme.santos300106@gmail.com**  
 🌐 **[oraculoia.tech](https://oraculoia.tech)**  
-📎 [LinkedIn](www.linkedin.com/in/guilherme-santos-pereira-7a3b76252)
+📎 [LinkedIn](www.linkedin.com/in/guilherme-santos-pereira-7a3b76252/)
 
 ---
