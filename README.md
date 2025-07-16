@@ -43,7 +43,7 @@ Busco oportunidades para aplicar tecnologia de forma prática e estratégica, ge
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🧠 **Oráculo IA** | Sistema de IA local voltado para auditoria, com interface em Streamlit, suporte a uploads de arquivos, análise com pandas e interação por linguagem natural usando LLaMA via Ollama. Mantém histórico de chats e roda totalmente offline, garantindo segurança de dados. |
+| 🧠 **Oráculo IA** | Sistema de IA local voltado para dados e treinamento, com interface em Streamlit, suporte a uploads de arquivos, análise com pandas e interação por linguagem natural usando LLaMA via Ollama. Mantém histórico de chats e roda totalmente offline, garantindo segurança de dados. |
 | 🔄 **Tradutor Corporativo (PowerPoint + mBART)** | Pipeline completo de tradução offline de apresentações corporativas em `.pptx`, com fine-tuning de um modelo mBART. Extrai texto (incluindo tabelas), treina com base em apresentações traduzidas e gera arquivos PPT traduzidos com segurança e precisão. |
 | 🎙️ **Tinki — Assistente de Voz com IA** | Agente multimodal que transcreve voz com Whisper, interpreta comandos com LLM (ChatOpenAI) e responde com TTS. Conecta-se a DataFrames pandas e é ativado por hotkey, respondendo a perguntas sobre dados. |
 | 📊 **Dashboards SAP + Power BI** | Scripts para extração automatizada de dados SAP e geração de dashboards interativos com KPIs críticos para a Auditoria Interna. Foco em otimização da tomada de decisão executiva. |
