@@ -31,7 +31,7 @@ Busco oportunidades para aplicar tecnologia de forma prática e estratégica, ge
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | **Linguagens**               | Python, SQL e Java Script                                                                                                         |
 | **IA / LLMs**                | Ollama, LangChain, CrewAI, Agno, OpenAI, HuggingFace Transformers                                                                 |
-| **Automação / RPA**          | PyAutoGUI, SAP Automation, Win32Com                                                                                               |
+| **Automação / RPA**          | PyAutoGUI, Selenium.                                                                                                              |
 | **Análise de Dados / BI**    | pandas, Power BI, Excel Avançado                                                                                                  |
 | **APIs / Backend**           | requests, streamlit, GitHub, REST APIs                                                                                            |
 | **Infraestrutura Local**     | Docker, AWS, OpenWebUI, execução offline de modelos, versionamento com Git                                                        |
