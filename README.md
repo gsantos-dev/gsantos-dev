@@ -11,7 +11,7 @@
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor backend com foco em **automação de processos, IA generativa e soluções inteligentes baseadas em dados**.  
-Atualmente, atuo na Auditoria Interna da Braskem, desenvolvendo automações com Python, integração com SAP, dashboards estratégicos e projetos de inteligência artificial.  
+Atualmente, atuo na Auditoria Interna da Braskem, desenvolvendo automações com Python, integração de APIs, dashboards estratégicos e projetos de inteligência artificial.  
 
 Busco oportunidades para aplicar tecnologia de forma prática e estratégica, gerando impacto real por meio de soluções eficientes e seguras.
 
@@ -19,9 +19,9 @@ Busco oportunidades para aplicar tecnologia de forma prática e estratégica, ge
 
 ## 🧠 Áreas de Atuação
 
-- 🤖 **Automação de Processos** com Python, SAP e RPA
+- 🤖 **Automação de Processos** com Python e RPA
 - 🧪 **Inteligência Artificial aplicada a negócios** com LLMs, NLP, RAG e IAs Locais
-- 🗂️ **Análise de Dados e Visualização** com pandas, Power BI e Excel
+- 🗂️ **Análise de Dados e Visualização** com pandas, numpy, Power BI e Excel
 - 🌐 **Integrações e Back-end** com APIs REST, Git e Docker
 
 ---
