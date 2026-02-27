@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme Santos Pereira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — Faculdade Impacta (4º semestre)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — Faculdade Impacta (5º semestre)  
 💼 Estagiário em Auditoria Interna na Braskem  
 📍 Carapicuíba - SP, Brasil  
 📫 guilherme.santos300106@gmail.com | [LinkedIn](https://www.linkedin.com/in/guilherme-santos-pereira-7a3b76252/)
