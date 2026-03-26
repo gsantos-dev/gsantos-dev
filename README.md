@@ -1,87 +1,83 @@
 # 👨‍💻 Guilherme Santos Pereira
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas — Faculdade Impacta (5º semestre)  
-💼 Estagiário em Auditoria Interna na Braskem  
-📍 Carapicuíba - SP, Brasil  
+🎓 Análise e Desenvolvimento de Sistemas — Faculdade Impacta (5º semestre)
+💼 Estagiário em Data Analytics | Risco — Banco Santander
+📍 Carapicuíba, SP — Brasil
 📫 guilherme.santos300106@gmail.com | [LinkedIn](https://www.linkedin.com/in/guilherme-santos-pereira-7a3b76252/)
-
+🌐 [oraculoia.tech](https://oraculoia.tech)
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor backend com foco em **automação de processos, IA generativa e soluções inteligentes baseadas em dados**.  
-Atualmente, atuo na Auditoria Interna da Braskem, desenvolvendo automações com Python, integração de APIs, dashboards estratégicos e projetos de inteligência artificial.  
+Sou AI Engineer em formação com foco em sistemas de inteligência artificial
+aplicada — construindo soluções reais, não apenas estudando conceitos.
 
-Busco oportunidades para aplicar tecnologia de forma prática e estratégica, gerando impacto real por meio de soluções eficientes e seguras.
+Tenho experiência prática em arquitetura de agentes, RAG, fine-tuning de LLMs,
+automação corporativa e integração com sistemas empresariais como SAP.
+
+Atualmente estagio no Banco Santander na área de Risco (Data Analytics),
+trabalhando com análise e modelagem de dados para suporte à decisão.
 
 ---
 
 ## 🧠 Áreas de Atuação
 
-- 🤖 **Automação de Processos** com Python e RPA
-- 🧪 **Inteligência Artificial aplicada a negócios** com LLMs, NLP, RAG e IAs Locais
-- 🗂️ **Análise de Dados e Visualização** com pandas, numpy, Power BI e Excel
-- 🌐 **Integrações e Back-end** com APIs REST, Git e Docker
+- 🤖 **Engenharia de IA** — LLMs, RAG, Agentes Autônomos, Fine-tuning
+- ⚙️ **Automação Corporativa** — Python, RPA, SAP, Power Automate
+- 📊 **Data Analytics** — pandas, Power BI, SQL
+- 🔒 **IA Local & Segura** — Ollama, OpenWebUI, execução offline
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Stack Técnica
 
-| Categoria                     | Tecnologias / Ferramentas                                                                                                        |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| **Linguagens**               | Python, SQL e Java Script                                                                                                         |
-| **IA / LLMs**                | Ollama, LangChain, CrewAI, Agno, OpenAI, HuggingFace Transformers                                                                 |
-| **Automação / RPA**          | PyAutoGUI, Selenium.                                                                                                              |
-| **Análise de Dados / BI**    | pandas, Power BI, Excel Avançado                                                                                                  |
-| **APIs / Backend**           | requests, streamlit, GitHub, REST APIs                                                                                            |
-| **Infraestrutura Local**     | Docker, AWS, OpenWebUI, execução offline de modelos, versionamento com Git                                                        |
-| **Soft Skills**              | Proatividade, aprendizado rápido, resolução de problemas, foco em entregas e adaptação a ambientes corporativos                   |
+| Categoria              | Tecnologias                                                        |
+|------------------------|--------------------------------------------------------------------|
+| **Linguagens**         | Python · SQL · JavaScript                                          |
+| **IA / LLMs**          | LangChain · Agno · Ollama · HuggingFace · OpenAI · mBART        |
+| **Automação / RPA**    | PyAutoGUI · Selenium · Power Automate · n8n                        |
+| **Dados / BI**         | pandas · NumPy · Power BI · Excel Avançado                         |
+| **Infra / Backend**    | Docker · Streamlit · REST APIs · Cloudflare Tunnel · Git           |
+| **Cloud / Corporativo**| Azure OpenAI · Azure Document Intelligence · SAP                   |
 
 ---
 
 ## 📁 Projetos em Destaque
 
 | Projeto | Descrição |
-|--------|-----------|
-| 🧠 **Oráculo IA** | Sistema de IA local voltado para dados e treinamento, com interface em Streamlit, suporte a uploads de arquivos, análise com pandas e interação por linguagem natural usando LLaMA via Ollama. Mantém histórico de chats e roda totalmente offline, garantindo segurança de dados. |
-| 🔄 **Tradutor Corporativo (PowerPoint + mBART)** | Pipeline completo de tradução offline de apresentações corporativas em `.pptx`, com fine-tuning de um modelo mBART. Extrai texto (incluindo tabelas), treina com base em apresentações traduzidas e gera arquivos PPT traduzidos com segurança e precisão. |
-| 🎙️ **Tinki — Assistente de Voz com IA** | Agente multimodal que transcreve voz com Whisper, interpreta comandos com LLM (ChatOpenAI) e responde com TTS. Conecta-se a DataFrames pandas e é ativado por hotkey, respondendo a perguntas sobre dados. |
-| 📊 **Dashboards SAP + Power BI** | Scripts para extração automatizada de dados SAP e geração de dashboards interativos com KPIs críticos para a Auditoria Interna. Foco em otimização da tomada de decisão executiva. |
-| 🧬 **Mini Cientista (PubMed AI)** | Agente de IA que automatiza buscas e análises de artigos científicos na PubMed. Resume, organiza e entrega insights com base em tópicos definidos, usando LangChain e LLMs. |
-| 📈 **Score IA — Previsão de Crédito** | Pipeline completo de ML para previsão de score de crédito com RandomForest e KNN. Realiza pré-processamento, comparação de modelos e aplicação em novos clientes. |
-| 🤖 **Bot PyAutoGUI para preenchimento automático** | Automação de formulários web com dados de um CSV, usando controle de mouse e teclado para preencher cadastros automaticamente. |
-| 📧 **Envio de Relatório por E-mail** | Script que processa dados de vendas em Excel, calcula indicadores (faturamento, ticket médio), formata em HTML e envia automaticamente por e-mail via Outlook. |
+|---------|-----------|
+| 🔄 [**Tradutor Corporativo mBART**](https://github.com/gsantos-dev/tradutor-mbart) | Fine-tuning offline do mBART para tradução de PPTs corporativos. Segurança total — zero dependência de API externa. |
+| 🧠 **Oráculo IA** | Sistema RAG local com LLaMA + Ollama para análise de documentos por linguagem natural. Roda 100% offline. |
+| 🤖 **Agentes Autônomos SAP** | Arquitetura multiagente com LLaMA: NLP para intenção + execução de scripts de extração SAP em tempo real. |
+| 🎙️ **Tinki — Assistente de Voz** | Agente multimodal com Whisper + LLM + TTS. Integrado a DataFrames pandas, ativado por hotkey. |
+| 🧬 [**Mini Cientista (PubMed AI)**](https://github.com/gsantos-dev/mini-cientista-ia) | Agente que automatiza busca e análise de artigos científicos na PubMed com LangChain. |
+| 📈 [**Score de Crédito com ML**](https://github.com/gsantos-dev/ML-credit-score) | Pipeline completo com RandomForest e KNN para previsão de score de crédito. |
 
 ---
 
-## 📜 Certificações Técnicas
+## 📜 Certificações
 
-- ✅ LLMs Alternativas – Asimov Academy  
-- ✅ Aplicações IA com LangChain – Asimov Academy  
-- ✅ Agentes de IA com Python e Langchain – Asimov Academy  
-- ✅ Python para IA – Asimov Academy  
-- ✅ Engenharia de Prompt – Asimov Academy  
-- ✅ Python Impressionador – Hashtag  
-- 🕒 Power BI Impressionador – Hashtag (em andamento)  
-- 🕒 IA Impressionador – Hashtag (em andamento)  
+- ✅ LLMs Alternativas — Asimov Academy
+- ✅ Aplicações IA com LangChain — Asimov Academy
+- ✅ Agentes de IA com Python e LangChain — Asimov Academy
+- ✅ Python para IA — Asimov Academy
+- ✅ Engenharia de Prompt — Asimov Academy
+- ✅ Python Impressionador — Hashtag
 
 ---
 
 ## 🌐 Idiomas
 
-- 🇬🇧 Inglês — Intermediário (UP To You Language School)
+- 🇧🇷 Português — Nativo
+- 🇬🇧 Inglês — Intermediário
 
 ---
 
 ## 🤝 Vamos conversar?
 
-Estou aberto a novas conexões, freelas e projetos colaborativos!  
-Se você busca alguém que una **IA + automação + dados** para entregar soluções reais e seguras, me chama!
+Aberto a oportunidades em **AI Engineering, Automação e Dados**.
 
-📫 **guilherme.santos300106@gmail.com**  
-🌐 **[oraculoia.tech](https://oraculoia.tech)**  
+📫 guilherme.santos300106@gmail.com
 📎 [LinkedIn](https://www.linkedin.com/in/guilherme-santos-pereira-7a3b76252/)
-
-
----
+🌐 [oraculoia.tech](https://oraculoia.tech)
