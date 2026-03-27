@@ -26,7 +26,7 @@ trabalhando com análise e modelagem de dados para suporte à decisão.
 - 🤖 **Engenharia de IA** — LLMs, RAG, Agentes Autônomos, Fine-tuning
 - ⚙️ **Automação Corporativa** — Python, RPA, SAP, Power Automate
 - 📊 **Data Analytics** — pandas, Power BI, SQL
-- 🔒 **IA Local & Segura** — Ollama, OpenWebUI, execução offline
+- 🔒 **IA Local & Segura** — Ollama, Cloud Flare, execução offline
 
 ---
 
@@ -34,12 +34,12 @@ trabalhando com análise e modelagem de dados para suporte à decisão.
 
 | Categoria              | Tecnologias                                                        |
 |------------------------|--------------------------------------------------------------------|
-| **Linguagens**         | Python · SQL · JavaScript                                          |
-| **IA / LLMs**          | LangChain · Agno · Ollama · HuggingFace · OpenAI · mBART        |
+| **Linguagens**         | Python · SQL ·                                                     |
+| **IA / LLMs**          | LangChain · Agno · Ollama · HuggingFace · OpenAI · Claude          |
 | **Automação / RPA**    | PyAutoGUI · Selenium · Power Automate · n8n                        |
 | **Dados / BI**         | pandas · NumPy · Power BI · Excel Avançado                         |
 | **Infra / Backend**    | Docker · Streamlit · REST APIs · Cloudflare Tunnel · Git           |
-| **Cloud / Corporativo**| Azure OpenAI · Azure Document Intelligence · SAP                   |
+| **Cloud / Corporativo**| Azure OpenAI · Azure Document Intelligence · SAP · Databricks      |
 
 ---
 
